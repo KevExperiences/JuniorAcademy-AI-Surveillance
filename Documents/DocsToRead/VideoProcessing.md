@@ -4,7 +4,7 @@
 
 ### **Pytorch Full Course:** https://youtu.be/V_xro1bcAuA?feature=shared
 By: freeCodeCamp.org
-Length: 1 day 💀
+Length: 1 day
 
 #### **Python NumPy for Beginners:** https://youtu.be/QUT1VHiLmmI?feature=shared
 By: freeCodeCamp.org
